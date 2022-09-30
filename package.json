@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "homepage":"https://stef2291.github.io/ticTacToe-Spt-2022/",
+    "gh-pages": "^4.0.0"
+  }
+}
