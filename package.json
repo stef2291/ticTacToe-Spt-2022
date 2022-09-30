@@ -2,5 +2,9 @@
   "devDependencies": {
     "homepage":"https://stef2291.github.io/ticTacToe-Spt-2022/",
     "gh-pages": "^4.0.0"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   }
 }
